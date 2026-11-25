@@ -11,7 +11,7 @@ All numbers in the paper, and all 25 games one by one, are in [`results/summary.
 
 ## Data
 
-The experiments use the 25 public games of ARC-AGI-3 (ARC Prize Foundation, *ARC-AGI-3: A new challenge for frontier agentic intelligence*, arXiv:2603.24621, 2026). The games are listed at [arcprize.org/tasks](https://arcprize.org/tasks) and are downloaded with the [ARC-AGI Toolkit](https://github.com/arcprize/arc-agi) (`pip install arc-agi`, documentation at [docs.arcprize.org](https://docs.arcprize.org)). A free API key in `ARC_API_KEY` gives access to all public games.
+The experiments use the 25 public games of ARC-AGI-3 (ARC Prize Foundation, *ARC-AGI-3: A new challenge for frontier agentic intelligence*, [arXiv:2603.24621](https://arxiv.org/abs/2603.24621), 2026). The games are listed at [arcprize.org/tasks](https://arcprize.org/tasks) and are downloaded with the [ARC-AGI Toolkit](https://github.com/arcprize/arc-agi) (`pip install arc-agi`, documentation at [docs.arcprize.org](https://docs.arcprize.org)). A free API key in `ARC_API_KEY` gives access to all public games.
 
 ## Contents
 
